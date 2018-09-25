@@ -1,0 +1,9 @@
+/* PHASE 8: Thumbs */
+.friends-list {
+  display: flex;
+}
+
+.friends-list ul li:nth-child(2){
+  margin-left: 2px;
+  margin-right: 2px;
+}
